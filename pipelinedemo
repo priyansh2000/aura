@@ -48,7 +48,7 @@ pipeline {
     post {
         success {
             // This block executes if the pipeline is successful
-            echo 'Deployment was successful!'
+            echo 'Deploymen successful!'
             // Add any additional success actions here
         }
         failure {
